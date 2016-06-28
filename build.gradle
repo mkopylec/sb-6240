@@ -4,7 +4,7 @@ version '1.0'
 apply plugin: 'application'
 
 sourceCompatibility = 1.8
-mainClassName = 'com.github.mkopylec.sb6235.Application'
+mainClassName = 'com.github.mkopylec.sb6240.Application'
 
 repositories {
     mavenCentral()
